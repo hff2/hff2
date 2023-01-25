@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Phoebe <br><br> <img src="https://komarev.com/ghpvc/?username=hff2&style=for-the-badge"> </h1>
+## Hi 👋, I'm Phoebe
 
-<p align="center">
-<img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hff2&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hff2&label=Profile%20views&color=0e75b6&style=flat" alt="hff2" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hff2&show_icons=true&locale=en&theme=dark" alt="hff2" /></p>
